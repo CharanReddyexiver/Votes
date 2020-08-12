@@ -1,0 +1,14 @@
+li a
+{
+    color: green;
+}
+
+li a:hover
+{
+    color:black;
+    animation-direction:
+}
+
+body {
+    background: #c8e6e6;
+}
